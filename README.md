@@ -1,4 +1,4 @@
-lab03_shukmeister
-=================
+CS130E-S14-Labs
+===============
 
-lab03 for Ben Shukman
+labs for CS130E-S14
